@@ -85,10 +85,7 @@ python main.py
 *   **Ctrl + V**: 在输入框中粘贴文本（推荐）。
 
 ## 🖼️ 游戏截图 (Screenshots)
-
-*(此处可以放置您游戏的实际运行截图，例如 main_menu.png, puzzle_solving.png 等)*
-
-> <img src="assets/bg_menu.jpg" width="400" alt="Menu Screen"> <img src="assets/bg_office.jpg" width="400" alt="Dialogue Screen">
+<img src="1.png" width="400" alt="游戏截图1"> <img src="4.png" width="400" alt="游戏截图2">
 
 ## 🤝 贡献 (Contributing)
 
