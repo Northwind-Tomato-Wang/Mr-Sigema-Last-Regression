@@ -58,7 +58,7 @@ pip install pygame matplotlib numpy
 
 ```text
 Project_Root/
-├── main.py                # 游戏主程序
+├── main03.py                # 游戏主程序
 ├── README.md              # 说明文档
 ├── simhei.ttf             # (可选) 中文字体，防止乱码
 └── assets/                # 素材文件夹
@@ -75,7 +75,7 @@ Project_Root/
 
 ### 5. 开始游戏 (Run)
 ```bash
-python main.py
+python main03.py
 ```
 
 ## 🎮 操作说明 (Controls)
